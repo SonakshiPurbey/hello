@@ -5,6 +5,7 @@ public class HelloWorld {
 
         // Display the message on command prompt
         System.out.println("Chankok.com - Hello World!"); 
+         System.out.println("Hi sonakshi - Hello World!"); 
 
     }	
 
